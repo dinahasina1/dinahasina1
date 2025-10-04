@@ -1,13 +1,13 @@
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                               ┃
+┃                                                                             ┃
 ┃   ██████╗ ██╗███╗   ██╗ █████╗ ██╗  ██╗ █████╗ ███████╗██╗███╗   ██╗ █████╗ ┃
 ┃   ██╔══██╗██║████╗  ██║██╔══██╗██║  ██║██╔══██╗██╔════╝██║████╗  ██║██╔══██╗┃
 ┃   ██║  ██║██║██╔██╗ ██║███████║███████║███████║███████╗██║██╔██╗ ██║███████║┃
 ┃   ██║  ██║██║██║╚██╗██║██╔══██║██╔══██║██╔══██║╚════██║██║██║╚██╗██║██╔══██║┃
 ┃   ██████╔╝██║██║ ╚████║██║  ██║██║  ██║██║  ██║███████║██║██║ ╚████║██║  ██║┃
 ┃   ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝┃
-┃                                                                               ┃
+┃                                                                             ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
@@ -20,7 +20,7 @@
 > access_granted ✓
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Architecte+Syst%C3%A8mes+%7C+Fullstack+Developer;Born+1998+%E2%80%A2+Same+Age+as+Google+%F0%9F%8C%90;7+Years+of+Code+%26+Caffeine+%E2%98%95;Vibes+%2B+Technical+Excellence+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Architect+%7C+Fullstack+Developer;Born+1998+%E2%80%A2+Same+Age+as+Google+%F0%9F%8C%90;7+Years+of+Code+%26+Caffeine+%E2%98%95;Vibes+%2B+Technical+Excellence+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,24 +35,26 @@
 Name:           Dinahasina Ralaivao
 Birth_Year:     1998  # Google's birth year too 🎂
 Experience:     7+ years in the matrix
-Current_Role:   Architecte Systèmes
+Current_Role:   Software Architect
 Philosophy:     where (code.vibes == ∞) && (technical.skills == elite)
 Status:         [████████████████████] 100% Coding
 ```
 
 ---
 
-## 🛠️ `$ ls -la ~/tech_stack/`
+## 🛠️ `$ tree ~/architecture_stack/`
 
 ```terminal
-drwxr-xr-x  2 dina dina 4096 Oct  4 2025 .
-drwxr-xr-x 15 dina dina 4096 Oct  4 2025 ..
+architecture_stack/
+├── languages/
+├── frameworks/
+└── patterns/
 
 ┌─────────────────────────────────────────────────────────────┐
 │ CORE_LANGUAGES/                                             │
 ├─────────────────────────────────────────────────────────────┤
-│ ⚡ Python        ████████████████████ 95%                   │
-│ ⚛️  React         ████████████████████ 95%                   │
+│ ⚡ Python        ████████████████████ 95%                    │
+│ ⚛️  React         ████████████████████ 95%                  │
 │ 🔧 C++/MFC       ██████████████████   90%                   │
 │ 🟢 Node.js       ███████████████████  92%                   │
 │ 🎯 Next.js       ███████████████████  92%                   │
@@ -63,68 +65,68 @@ drwxr-xr-x 15 dina dina 4096 Oct  4 2025 ..
 ├─────────────────────────────────────────────────────────────┤
 │ 🎸 Django        ████████████████████ 95%                   │
 │ 🤖 n8n           ██████████████████   88%                   │
-│ ⚙️  Qt            ████████████████     82%                   │
-│ ⛓️  Ethereum      ███████████████      78%                   │
+│ ⚙️  Qt            ████████████████     82%                  │
+│ ⛓️  Ethereum      ███████████████      78%                  │
 │ 🔄 Agile/Scrum   ████████████████████ 96%                   │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
-│ SPECIALTIES/                                                │
+│ ARCHITECTURE_PATTERNS/                                      │
 ├─────────────────────────────────────────────────────────────┤
-│ • REST API Architecture                                     │
-│ • SaaS Development                                          │
-│ • UI/UX Modernization                                       │
-│ • Automation & Workflow Orchestration                       │
-│ • Performance Optimization (GDI/Memory/Threads)             │
-│ • Asymmetric Encryption Implementation                      │
-│ • AutoCAD & QGIS Plugin Development                         │
+│ • REST API Design & Microservices Architecture              │
+│ • SaaS Platform Development & Scalability                   │
+│ • Modern UI/UX Architecture & Component Design              │
+│ • Workflow Orchestration & Automation Systems               │
+│ • Performance Optimization & Code Refactoring               │
+│ • Security Architecture (Asymmetric Encryption)             │
+│ • Plugin Architecture & Extensible Systems                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💼 `$ cat /var/log/experience.log`
+## 💼 `$ cat ~/career/experience.log`
 
 ```log
 [2024-07 → Present] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 │ 
-│ 📍 Remote | Développeur Fullstack | Indépendant
-│ ├─ Frontend: React, Next.js
-│ ├─ Backend: Django, Node.js
-│ └─ Méthodologie: Agile Development & Project Leadership
+│ 📍 Remote | Fullstack Developer | Freelance
+│ ├─ Frontend Development: React, Next.js
+│ ├─ Backend Development: Django, Node.js
+│ └─ Methodology: Agile Development & Project Leadership
 │
-│ 📍 Remote | Développeur MFC C++ | RID Informatique
-│ ├─ Refonte ergonomique UX & modernisation UI
-│ ├─ Optimisation: GDI, Mémoire, Threads
-│ ├─ Refactorisation & maintenance code source
-│ └─ Implémentation chiffrement asymétrique en messagerie
+│ 📍 Remote | MFC C++ Developer | RID Informatique
+│ ├─ UX Ergonomic Redesign & UI Modernization
+│ ├─ Optimization: GDI, Memory, Threads
+│ ├─ Code Refactoring & Source Maintenance
+│ └─ Implementation of Asymmetric Encryption in Messaging
 │
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [2022-09 → 2024-08] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 │ 
-│ 📍 Antananarivo | Développeur Fullstack | Natix-Group (ATSCOM)
-│ ├─ Conception & développement de SaaS
+│ 📍 Antananarivo | Fullstack Developer | Natix-Group (ATSCOM)
+│ ├─ SaaS Conception & Development
 │ ├─ Frontend: React, Next.js
-│ ├─ Backend: Django REST, Node.js
-│ └─ 🔗 Blockchain: Développement token Ethereum ERC20
+│ ├─ Backend REST: Django, Node.js
+│ └─ 🔗 Blockchain: Ethereum ERC20 Token Development
 │
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [2019-04 → 2022-06] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 │ 
-│ 📍 Antananarivo | Développeur C++ | Futurmap Data
-│ ├─ Développement plugins AutoCAD & QGIS
-│ ├─ Interfaces Qt modernes & optimisées
-│ ├─ Format unifié: AutoCAD ↔ QGIS ↔ Terrascan
-│ └─ Tests unitaires & documentation automatisée
+│ 📍 Antananarivo | C++ Developer | Futurmap Data
+│ ├─ AutoCAD & QGIS Plugin Development
+│ ├─ Modern & Optimized Qt Interfaces
+│ ├─ Unified Format: AutoCAD ↔ QGIS ↔ Terrascan
+│ └─ Unit Testing & Automated Documentation
 │
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## 🌐 `$ netstat -an | grep LISTENING`
+## 🌐 `$ echo $PHILOSOPHY`
 
 <div align="center">
 
@@ -141,7 +143,7 @@ drwxr-xr-x 15 dina dina 4096 Oct  4 2025 ..
 
 ---
 
-## 📊 `$ top -u dina`
+## 📊 `$ ./analyze_performance.sh`
 
 <div align="center">
 
@@ -153,13 +155,13 @@ drwxr-xr-x 15 dina dina 4096 Oct  4 2025 ..
 
 ---
 
-## 🎯 `$ ps aux | grep "current_focus"`
+## 🎯 `$ node architect.js --show-profile`
 
 ```python
-class ArchitecteSystemes:
+class SoftwareArchitect:
     def __init__(self):
         self.name = "Dinahasina Ralaivao"
-        self.role = "Architecte Systèmes"
+        self.role = "Software Architect"
         self.location = "🌍 Remote"
         self.languages = ["Python", "JavaScript", "C++", "TypeScript"]
         self.current_focus = [
@@ -176,14 +178,14 @@ class ArchitecteSystemes:
         std::cout << "🚀 Innovation meets execution!" << std::endl;
         """
 
-# Instance active
-dina = ArchitecteSystemes()
+# Active instance
+dina = SoftwareArchitect()
 dina.say_hi()
 ```
 
 ---
 
-## 🔗 `$ curl -X GET https://social.links/dinahasina`
+## 🔗 `$ npm run connect:social`
 
 <div align="center">
 
@@ -195,9 +197,9 @@ dina.say_hi()
 └─────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinahasina/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://portfolio.link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinahasina.michel.ralaivao@esti.mg)
 
 </div>
 
@@ -213,10 +215,10 @@ dina.say_hi()
 │   > Code Quality: ████████████ 100%                                   │
 │   > Passion:      ∞                                                   │
 │                                                                       │
-│   "Building the future, one commit at a time."                       │
+│   "Building the future, one commit at a time."                        │
 │                                                                       │
-│   $ sudo apt install awesome-developer                               │
-│   [✓] Package 'dinahasina' already at latest version                 │
+│   $ npm install @architect/dinahasina                                 │
+│   [✓] Package '@architect/dinahasina' already at latest version       │
 │                                                                       │
 └───────────────────────────────────────────────────────────────────────┘
 ```
